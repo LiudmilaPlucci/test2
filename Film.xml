@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<films>
+    <film>
+    <movie>Murder_Mystery</movie>
+    <release>2019</release>
+    <cast>Adam_Sandler</cast>
+    <genres>comedies</genres>
+    <trending_now>false</trending_now>
+    </film>
+    <film>
+    <movie>Red_Notice</movie>
+    <release>2021</release>
+    <cast>Dwayne_Johnsonr</cast>
+    <genres>comedies</genres>
+    <trending_now>false</trending_now>
+    </film>
+    <film>
+    <movie>Downton_Abbe</movie>
+    <release>2015</release>
+    <cast>Hugh_Bonneville</cast>
+    <genres>Drama</genres>
+    <trending_now>true</trending_now>
+    </film>
+    <film>
+    <movie>The_Holiday</movie>
+    <release>2021</release>
+    <cast>Jill_Halfpenny</cast>
+    <genres>thrillers</genres>
+    <trending_now>true</trending_now>
+    </film>
+     <film>
+    <movie>Bridgerto</movie>
+    <release>2022</release>
+    <cast>Adjoa_Andoh</cast>
+    <genres>drama</genres>
+    <trending_now>false</trending_now>
+    </film>
+</films>

@@ -1,0 +1,39 @@
+{
+  "films": [
+    {
+      "title": "Murder_Mystery",
+      "release": 2019,
+      "cast": "Adam_Sandler",
+      "genres": "Comedies",
+      "trending_now": false
+    },
+    {
+      "title": "Red_Notice",
+      "release": 2021,
+      "cast": "Dwayne_Johnson",
+      "genres": "Comedies",
+      "trending_now": false
+    },
+    {
+      "movie": "Downton_Abbey",
+      "release": 2015,
+      "cast": "Hugh_Bonneville",
+      "genres": "Drama",
+      "trending_now": true
+    },
+    {
+      "movie": "The_Holiday",
+      "release": 2021,
+      "cast": "Jill_Halfpenny",
+      "genres": "Thrillers",
+      "trending_now": true
+    },
+    {
+      "movie": "Bridgerton",
+      "release": 2022,
+      "cast": "Adjoa_Andoh",
+      "genres": "Drama",
+      "trending_now": false
+    }
+  ]
+}
